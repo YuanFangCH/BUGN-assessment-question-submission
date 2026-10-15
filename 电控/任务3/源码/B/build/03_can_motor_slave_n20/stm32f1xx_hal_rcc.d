@@ -1,0 +1,32 @@
+./build/03_can_motor_slave_n20/stm32f1xx_hal_rcc.o: \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal.h \
+  ../common_task3\stm32f1xx_hal_conf.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_rcc.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Device/ST/STM32F1xx/Include\stm32f1xx.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Include\core_cm3.h \
+  D:\keil5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Include/cmsis_version.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Include/cmsis_compiler.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Include/cmsis_armclang.h \
+  D:\keil5\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  ../../vendor/STM32CubeF1/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  D:\keil5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_gpio.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_cortex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_flash.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_pwr.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_dma.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_adc.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_tim.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_uart.h \
+  ../../vendor/STM32CubeF1/Drivers/STM32F1xx_HAL_Driver/Inc\stm32f1xx_hal_can.h
